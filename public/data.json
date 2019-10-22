@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Primary site",
+    "data": {
+      "lung": 93,
+      "kidney": 3,
+      "liver": 3
+    }
+  },
+  {
+    "title": "Disease",
+    "data": {
+      "nsclc": 75,
+      "sclc": 18,
+      "carcinoma": 3,
+      "hepatoblastoma": 3
+    }
+  }
+]
